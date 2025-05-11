@@ -1,13 +1,16 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
+import "./styles/Footer.css";
+import Footer from './components/Footer';
+
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
+    <Footer/>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error saepe quo itaque praesentium pariatur? Ea doloremque perspiciatis earum, reiciendis nisi voluptate eveniet iusto nobis ipsum fuga, sequi dolor harum mollitia.</p>
       
     </>
   )
