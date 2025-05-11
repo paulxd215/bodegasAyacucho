@@ -10,8 +10,7 @@ function App() {
   return (
     <>
     <Footer/>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error saepe quo itaque praesentium pariatur? Ea doloremque perspiciatis earum, reiciendis nisi voluptate eveniet iusto nobis ipsum fuga, sequi dolor harum mollitia.</p>
-      
+    
     </>
   )
 }
