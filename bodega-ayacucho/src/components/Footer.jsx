@@ -3,6 +3,7 @@ import "../styles/Footer.css";
 const Footer = () =>{
     return(
         <div>
+            <h1> XD</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, harum dolorum dolores nihil a impedit obcaecati dicta beatae facilis consequuntur laudantium mollitia. Fugit minima, sapiente ab eum ipsum esse veritatis!</p>
         </div>
     )
